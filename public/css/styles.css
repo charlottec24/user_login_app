@@ -1,0 +1,10 @@
+body {
+  background-image:url('../images/bg_pattern.jpg');
+  background-repeat:repeat;
+}
+
+.general {
+  font-family: helvetica;
+  color: #FF33CC;
+  
+}

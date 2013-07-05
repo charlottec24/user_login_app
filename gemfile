@@ -1,0 +1,17 @@
+source 'https://rubygems.org'
+
+gem 'sinatra'
+gem 'pg'
+gem 'do_postgres'
+gem 'data_mapper'
+gem 'dm-postgres-adapter'
+
+group :development do
+  gem 'capybara'
+  gem 'rspec'
+  gem 'database_cleaner'
+  gem 'selenium-webdriver'
+  gem 'shotgun'
+  gem 'minitest'
+  gem 'rack-test'
+end
