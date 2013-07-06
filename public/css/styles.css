@@ -5,6 +5,7 @@ body {
 
 .general {
   font-family: helvetica;
+  font-size: 18px;
   color: #FF33CC;
-  
+  text-align:center;
 }
